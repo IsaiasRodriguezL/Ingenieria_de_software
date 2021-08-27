@@ -9,5 +9,5 @@
 &nbsp;
 # Presentación
 
-- **Nombre**: demo
-- **Correo**: my.email@mail.com
+- **Nombre**: Rodriguez Librado Jose Isaias
+- **Correo**: 316026239@pcpuma.acatlan.unam.mx

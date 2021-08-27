@@ -11,7 +11,7 @@ extra_css:
     - css/page.css
 nav:
     - Individuales:
-        - Actividad 1: todo.md
+        - Investigacion 1 (Bonus): InvestigacionU1Bonus.md
         - Actividad 2: todo.md
     - Colaborativas:
         - Actividad 1: todo.md
