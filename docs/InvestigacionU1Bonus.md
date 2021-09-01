@@ -1,6 +1,7 @@
 # ¿Que son las metodologias agiles?
+## **¿Que son?**
 Por definición, las metodologías ágiles son aquellas que permiten adaptar la forma de trabajo a las condiciones del proyecto, consiguiendo flexibilidad e inmediatez en la respuesta para amoldar el proyecto y su desarrollo a las circunstancias específicas del entorno.  
-
+## **¿En que consisten?**
 Por esta metodología se consiguen gestionar sus proyectos de forma flexible, autónoma y eficaz reduciendo los costes e incrementando su productividad. 
 
 ![imagen1](https://disruptivo.tv/wp-content/uploads/2019/08/26-08-19-disruptivo-insta-1080x1080.png "Metodologias Agiles")
@@ -22,11 +23,12 @@ Algunas de las metodologías agiles más usadas son:
 
 
 
-![imagen2](https://ecdisis.com/wp-content/uploads/2021/01/Metodologias-agiles-mas-utilizadas-en-empresas.jpg "Metodologias Agiles")  
+![imagen2](https://instintobinario.com/wp-content/uploads/2015/06/1406_0-769x360.png "Metodologias Agiles")  
 De las mas grandes diferencias que encontramos son en las diferentes metodologías agiles que se usan para ser aplicadas, por ejemplo, la "Extreme Programming XP" esta orientada a todo el equipo de trabajo y el cliente,mientras que el scrum está mas inclinado hacia el equipo de trabajo, sin embargo todas buscan una cosa en común, agilizar el trabajo/proyecto
 
 ### *Referencias*:  
 <https://www.iebschool.com/blog/que-son-metodologias-agiles-agile-scrum/>  
 <https://ecdisis.com/metodologias-agiles-mas-utilizadas-en-empresas/>  
 <https://disruptivo.tv/sin-categorizar/metodologias-agiles-startups/>  
-<https://blog.incubicon.com/tipos-de-metodolog%C3%ADas-agiles-para-la-gestion-de-proyectos>
+<https://blog.incubicon.com/tipos-de-metodolog%C3%ADas-agiles-para-la-gestion-de-proyectos>  
+<https://instintobinario.com/introduccion-a-las-metodologias-agiles/>
