@@ -37,7 +37,8 @@ Usando UML se pueden construir numerosos tipos de diagramas. Algunos ejemplos so
 ![Imagen2](https://sergvergara.files.wordpress.com/2019/07/exampleuml-1.jpg "Ejemplo2DiagramaUML")
 
 ### *Referencias*
-<https://www.lucidchart.com/pages/es/que-es-el-lenguaje-unificado-de-modelado-uml#section_0>  
-<http://profesores.fi-b.unam.mx/carlos/aydoo/uml.html>  
-<https://www.aprenderaprogramar.com/index.php?option=com_content&view=article&id=688:ique-es-y-para-que-sirve-uml-versiones-de-uml-lenguaje-unificado-de-modelado-tipos-de-diagramas-uml&catid=46&Itemid=163>  
-<https://sergvergara.wordpress.com/2019/07/07/resumen-uml/>
+
+- ¿Qué es el lenguaje unificado de modelado (UML)? (s. f.). Lucid Software Inc. Recuperado 12 de septiembre de 2021, de <https://www.lucidchart.com/pages/es/que-es-el-lenguaje-unificado-de-modelado-uml/#section_12>  
+- Román, C. A. (s. f.). EL LENGUAJE UNIFICADO DE MODELADO (UML). Facultad de Ingeniería, UNAM. Recuperado 12 de septiembre de 2021, de >http://profesores.fi-b.unam.mx/carlos/aydoo/uml.html>  
+- Krall, C. (s. f.). ¿Qué es y para qué sirve UML? Versiones de UML (Lenguaje Unificado de Modelado). Tipos de diagramas UML. aprenderaprogramar.com. Recuperado 12 de septiembre de 2021, de <https://www.aprenderaprogramar.com/index.php?option=com_content&view=article&id=688:ique-es-y-para-que-sirve-uml-versiones-de-uml-lenguaje-unificado-de-modelado-tipos-de-diagramas-uml&catid=46&Itemid=163>  
+- Vergara, S. (2019, 7 julio). Resumen UML. Serg Vergara y la informática. <https://sergvergara.wordpress.com/2019/07/07/resumen-uml>
